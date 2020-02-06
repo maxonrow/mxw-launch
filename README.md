@@ -1,10 +1,10 @@
-# MXW launch
+# MXW Launch
 
 ### How to Connect
 
-- Download and compile [mxd](https://github.com/maxonrow/maxonrow-go) daemon.
-- To connect mxw tests net (alloys): `mxwd start --home ./TestNet`
-- Wait for blockchain to be synced
+- Download and compile [mxwd](https://github.com/maxonrow/maxonrow-go) daemon.
+- To connect Maxonrow Testnet (alloys): `mxwd start --home ./TestNet`
+- Wait for blockchain to be synched
 
 
 
